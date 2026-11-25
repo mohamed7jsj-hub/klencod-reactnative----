@@ -1,0 +1,5 @@
+{
+  "name": "App",
+  "displayName": "إدارة المصاريف",
+  "android": {"packageName": "com.mony.app"}
+}

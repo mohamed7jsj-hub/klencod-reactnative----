@@ -1,0 +1,11 @@
+{
+  "name": "App",
+  "displayName": "إدارة المصاريف",
+  "applicationId": "com.mony.app",
+  "minSdk": 24,
+  "compileSdk": 35,
+  "targetSdk": 34,
+  "hasIcon": false,
+  "template": "react-native-cli",
+  "createdAt": "1795637860926"
+}
